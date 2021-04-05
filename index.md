@@ -1,10 +1,13 @@
 # Angus Yick's User Page
+## Programmer info
 My favorite *coding language* is **C++**
 
 My *second favorite* coding language is:
 ```
 Python
 ```
+
+## Other info
 
 My favorite quote from a professor is:
 > Poggerz 

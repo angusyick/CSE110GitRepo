@@ -2,5 +2,5 @@
 My favorite *coding language* is **C++**
 
 My favorite quote from a professor is:
-> Poggerz
+> Poggerz <
 -Professor Niema

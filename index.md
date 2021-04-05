@@ -3,6 +3,8 @@
 
 [Other info Section Link](https://github.com/angusyick/CSE110GitRepo/blob/main/index.md#other-info)
 
+[Link to README file](README.txt)
+
 ## Programmer info
 
 My favorite *coding language* is **C++**

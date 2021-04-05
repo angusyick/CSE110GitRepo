@@ -1,4 +1,8 @@
 # Angus Yick's User Page
+
+![image](https://user-images.githubusercontent.com/74380180/113526624-9e057b80-956f-11eb-94b6-a188133a9146.png)
+
+
 [Programmer info Section Link](https://github.com/angusyick/CSE110GitRepo/blob/main/index.md#programmer-info)
 
 [Other info Section Link](https://github.com/angusyick/CSE110GitRepo/blob/main/index.md#other-info)

@@ -1,5 +1,8 @@
 # Angus Yick's User Page
 ## Programmer info
+
+[Other info Section Link](https://github.com/angusyick/CSE110GitRepo/blob/main/index.md#other-info)
+
 My favorite *coding language* is **C++**
 
 My *second favorite* coding language is:

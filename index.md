@@ -21,7 +21,12 @@ Python
 My Hobbies:
 - Playing Video Games
 - Playing Guitar
-- Watching Videos
+- Watching Youtube Videos
+
+My Top 3 Favorite Movies:
+1. Kung Fu Yoga
+2. Weathering With You
+3. Avengers: Infinity War
 
 My favorite quote from a professor is:
 > Poggerz 

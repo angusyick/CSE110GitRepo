@@ -14,7 +14,11 @@ My *second favorite* coding language is:
 Python
 ```
 
-
+Tasks to fulfill to become a programmer:
+- [x] Transfer into a UC
+- [x] Join a coding based club
+- [ ] Acquire internship
+- [ ] Acquire Job
 
 ## Other info
 

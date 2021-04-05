@@ -3,7 +3,7 @@
 
 [Other info Section Link](https://github.com/angusyick/CSE110GitRepo/blob/main/index.md#other-info)
 
-[Link to README file](CSE110GitRepo/README.txt)
+[Link to README file](./CSE110GitRepo/README.txt)
 
 ## Programmer info
 

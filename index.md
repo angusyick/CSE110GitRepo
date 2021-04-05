@@ -14,7 +14,14 @@ My *second favorite* coding language is:
 Python
 ```
 
+
+
 ## Other info
+
+My Hobbies:
+- Playing Video Games
+- Playing Guitar
+- Watching Videos
 
 My favorite quote from a professor is:
 > Poggerz 
